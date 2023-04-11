@@ -16,7 +16,7 @@ class_name = "test"
 css_property = "background_color"
 red_tone = "#b21d1a"
 grey_tone = "#eeeeee"
-time_sleep = 5
+time_sleep = 20
 url_time_table = "https://badfishbarbershop.nearcut.de/book/shops/KJAXY4?barbers%5B%5D=ACI61M&filter_barbers%5B%5D=ACI61M&service_options%5B%5D=XKTC8E"
 start_date = 12 #th day of the month
 end_date = 15 #th day of the month
