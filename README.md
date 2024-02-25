@@ -1,6 +1,6 @@
 # Nearcut Appointment Finder
 
-This project searches for free dates on Nearcut pages within a predefined timespan. It was created as a fun little project to help me get an appointment.
+This project searches for free dates on Nearcut pages within a predefined timespan. It was created as a fun little project to help me get an appointment. Therefore it is not maintained and probably doesn't work anymore.
 
 ## Getting Started
 
